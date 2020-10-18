@@ -14,5 +14,6 @@
 
 # Przydatne linki:
 
-[E-Trapez](https://drive.google.com/drive/folders/1BQsuX3Dy3fVYFkeaWca4WIOEtkwEx89L)
+[E-Trapez](https://drive.google.com/drive/folders/1BQsuX3Dy3fVYFkeaWca4WIOEtkwEx89L)\
+[Google Drive grupy](https://drive.google.com/drive/u/1/folders/1_YaUUs0wsGsuLAZtbRvUAtrLGgUqnsEm?usp=sharing)
 
