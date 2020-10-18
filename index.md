@@ -15,5 +15,6 @@
 # Przydatne linki:
 
 [E-Trapez](https://drive.google.com/drive/folders/1BQsuX3Dy3fVYFkeaWca4WIOEtkwEx89L)\
-[Google Drive grupy](https://drive.google.com/drive/u/1/folders/1_YaUUs0wsGsuLAZtbRvUAtrLGgUqnsEm?usp=sharing)
+[Google Drive grupy](https://drive.google.com/drive/u/1/folders/1_YaUUs0wsGsuLAZtbRvUAtrLGgUqnsEm?usp=sharing)\
+[Generator tabel](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
 
