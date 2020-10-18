@@ -9,9 +9,9 @@
 [Wprowadzenie do informatyki](https://www.youtube.com/playlist?list=PLxJh4IIn0Qjr5uAQOWph2Uue47PfARHWh)\
 [Narzędzia informatyki k62.1](https://www.youtube.com/playlist?list=PLxJh4IIn0QjqnVgWPiAEDzSdeaXkxKjjJ)\
 [Narzędzia informatyki k62.2](https://www.youtube.com/playlist?list=PLxJh4IIn0Qjofa9J1qMQDK87OWr-Pt_kB)\
-[Komunikacja społeczna](https://www.youtube.com/playlist?list=PLxJh4IIn0QjoiOuPi6tbrpDEQftrr1DYU)\
+[Komunikacja społeczna](https://www.youtube.com/playlist?list=PLxJh4IIn0QjoiOuPi6tbrpDEQftrr1DYU)
 
 # Przydatne linki:
 
-[E-Trapez](https://drive.google.com/drive/folders/1BQsuX3Dy3fVYFkeaWca4WIOEtkwEx89L)\
+[E-Trapez](https://drive.google.com/drive/folders/1BQsuX3Dy3fVYFkeaWca4WIOEtkwEx89L)
 
