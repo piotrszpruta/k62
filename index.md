@@ -2,7 +2,7 @@
 
 ## Metodyka pracy projektowej 
 [Link](https://www.youtube.com/watch?v=FxPeSfvr6kI)\
-[Skrót pdf](https://drive.google.com/drive/u/1/folders/1_YaUUs0wsGsuLAZtbRvUAtrLGgUqnsEm)
+[Skrót pdf](https://drive.google.com/file/d/1GSoLuVZAFY45fX07p7kuLWoF6WvM8IUR/view?usp=sharing)
 
 ## Linki do playlist:
 [Matematyka dyskretna](https://www.youtube.com/playlist?list=PLxJh4IIn0QjoxA0lcmLl0kIsIdMPY5vMb)\
