@@ -1,7 +1,8 @@
 # Studia Inżynierskie Informatyka zaocznie grupa K62
 
 ## Metodyka pracy projektowej 
-[Link](https://www.youtube.com/watch?v=FxPeSfvr6kI)
+[Link](https://www.youtube.com/watch?v=FxPeSfvr6kI)\
+[Skrót pdf](https://github.com/piotrszpruta/k62/raw/gh-pages/ABC%20Studenta%20-%20skr%C3%B3t.pdf)
 
 ## Linki do playlist:
 [Matematyka dyskretna](https://www.youtube.com/playlist?list=PLxJh4IIn0QjoxA0lcmLl0kIsIdMPY5vMb)\
