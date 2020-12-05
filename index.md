@@ -24,6 +24,7 @@
 ## Przydatne linki:
 
 [E-Trapez](https://drive.google.com/drive/folders/1BQsuX3Dy3fVYFkeaWca4WIOEtkwEx89L)\
+[MikroEkonomia zadania](https://l.messenger.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1AdG7aAwZxYbKFo3y3XreX-Q_YYVG4MTS%2Fview%3Fusp%3Dsharing&h=AT15ok1GEm0uYIK4GUI5BdEUNsMKM9MyFUjq55aOVD0ZG9nEuj-iZLoFDnVxVokFAnUHQlf-uyTmE34yidq-4SsMzFMLgx3d7YdyN-4NsZD5vMKoJcK5Jjaxs045vl5je_luaQ)\
 [Zadania matematyka dyskretna](https://inf.ug.edu.pl/~hanna/md/skrypt_okl_full.pdf?fbclid=IwAR3hQrmGZtJ26_GPpEj93BXJVYzus7M9XIIHKgct6e3lm_fYyPTBl0rbHUo)\
 [Google Drive grupy](https://drive.google.com/drive/u/1/folders/1_YaUUs0wsGsuLAZtbRvUAtrLGgUqnsEm?usp=sharing)\
 [Generator tabel](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
